@@ -1,3 +1,6 @@
 [submodule "Tema_1/actividades/DI-primeros_ejercicios_python"]
 	path = Tema_1/actividades/DI-primeros_ejercicios_python
 	url = https://github.com/estefaniapenide/DI-primeros_ejercicios_python
+[submodule "Tema_3/DI-ProyectoUno"]
+	path = Tema_3/DI-ProyectoUno
+	url = https://github.com/estefaniapenide/DI-ProyectoUno.git
