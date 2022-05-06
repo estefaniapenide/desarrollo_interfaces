@@ -1,0 +1,2 @@
+global ui
+global dlgsalir

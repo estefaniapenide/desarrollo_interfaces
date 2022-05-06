@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="iconoWarning">
+    <file>img/warning.png</file>
+  </qresource>
+</RCC>
